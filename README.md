@@ -9,7 +9,7 @@
 | ------------- | ------------- |
 | 1. Easy to use | 1. Often requests to buy while coding |
 | 2. Free  | 2. Basic |
-| 3. Suitable option for juniors  | > 3. Only javascript - TMS|
+| 3. Suitable option for juniors  |  3. > Only javascript > - TMS|
 
 
 
