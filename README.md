@@ -7,6 +7,8 @@
 
 [Link to the website of Sublime ](https://www.sublimetext.com/)
 
+> Sublime is a top IDE and one of the best JavaScript editors available for free. - TMS
+
 | Pros  | Cons |
 | ------------- | ------------- |
 | 1. Easy to use | 1. Often requests to buy while coding |
@@ -17,8 +19,5 @@
 * _reason why I choose this IDE:_
   - Easy to use
   - My first IDE and difficult to change :unamused:
-
-
-> Sublime is a top IDE and one of the best JavaScript editors available for free. - TMS
 
 `var example = true`
