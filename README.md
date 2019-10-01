@@ -7,19 +7,10 @@
 
 | Pros  | Cons |
 | ------------- | ------------- |
-| 1. easy to use | 1. often questions to buy |
-| 2. free  | 2. basic |
-| 3. suitable option for juniors  | 3. only javascript |
+| 1. Easy to use | 1. Often requests to buy while coding |
+| 2. Free  | 2. Basic |
+| 3. Suitable option for juniors  | 3. Only javascript |
 
 
-Pros: 
-1. easy to use
-2. free
-3. suitable option for juniors
-
-cons:
-1. often questions to buy
-2. basic
-3. only javascript
 
 reason why I choose this IDE: easy to use and my first IDE.
