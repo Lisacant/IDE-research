@@ -16,8 +16,9 @@
 | 3. Suitable option for juniors  |  3. Only javascript - TMS|
 
 
-* _reason why I choose this IDE:_
+* _Reasons why I choose this IDE:_
   - Easy to use
+  - Free
   - My first IDE and difficult to change :unamused:
 
 `var example = true`
