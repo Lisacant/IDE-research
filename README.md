@@ -9,11 +9,14 @@
 | ------------- | ------------- |
 | 1. Easy to use | 1. Often requests to buy while coding |
 | 2. Free  | 2. Basic |
-| 3. Suitable option for juniors  |  3. > Only javascript > - TMS|
-
-
-
+| 3. Suitable option for juniors  |  3. Only javascript - TMS|
 
 
 * _reason why I choose this IDE:_
-easy to use and my first IDE.
+  - Easy to use
+  - My first IDE and difficult to change :unamused:
+
+
+> Sublime is a top IDE and one of the best JavaScript editors available for free. - TMS
+
+`var example = true`
