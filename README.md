@@ -21,7 +21,7 @@
   * Free
   * My first IDE and difficult to change :unamused:
   
-Why I should use Visual Code:
+* _Why I should use Visual Code:_
 - [x] Resources and plug-ins possible
 - [x] Connection to Git
 
