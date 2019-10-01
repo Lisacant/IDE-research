@@ -17,8 +17,12 @@
 
 
 * _Reasons why I choose this IDE:_
- - [x] Easy to use
- - [x] Free
- - [x] My first IDE and difficult to change :unamused:
+  * Easy to use
+  * Free
+  * My first IDE and difficult to change :unamused:
+  
+Why I should use Visual Code:
+- [x] Resources and plug-ins possible
+- [x] Connection to Git
 
 `var example = true`
