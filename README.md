@@ -6,8 +6,7 @@
 [Link to the website](https://www.sublimetext.com/)
 
 Pros: | Cons:
------------- | -------------
-1. easy to use | 1. often questions to buy
+1.-easy-to-use | 1.-often-questions-to-buy
 2. free | 2. basic
 3. suitable option for juniors | 3. only javascript
 
