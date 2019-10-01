@@ -12,7 +12,6 @@ Pros: | Cons:
 3. suitable option for juniors | 3. only javascript
 
 
-
 Pros: 
 1. easy to use
 2. free
