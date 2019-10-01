@@ -17,8 +17,8 @@
 
 
 * _Reasons why I choose this IDE:_
- [x] Easy to use
- [x] Free
- [x] My first IDE and difficult to change :unamused:
+ - [x] Easy to use
+ - [x] Free
+ - [x] My first IDE and difficult to change :unamused:
 
 `var example = true`
